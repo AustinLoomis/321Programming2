@@ -1,3 +1,10 @@
+/*
+Authors:
+Austin Loomis   aploomis@iastate.edu
+Noah Smith      smithnw@iastate.edu
+Camden Klicker  camklic@iastate.edu
+*/
+
 use std::{ collections::HashMap, env, fs, process, convert::TryInto };
 
 fn main() {
